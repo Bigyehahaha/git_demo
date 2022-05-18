@@ -23,3 +23,4 @@ hello git
 master change
 hot-fix change
 git pull git_demo master
+git ssh
